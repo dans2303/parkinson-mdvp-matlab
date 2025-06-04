@@ -3,7 +3,7 @@ close all;
 clear all;
 
 % Directory containing the audio files
-audio_dir = 'E:\Kuliah NCU\PhD\Research\MDVP Matlab\SAMPLES';  % Replace with the path to your files
+audio_dir = '';  % Replace with the path to your files
 audio_files = dir(fullfile(audio_dir, '*.wav'));  % Get a list of all .wav files
 
 % Initialize an empty table to store the results
