@@ -54,7 +54,7 @@ Evaluation will include accuracy, precision-recall, and confusion matrices.
 
 ## ▶️ How to Run (MATLAB)
 
-1. Open `main.m` in MATLAB
+1. Open `M1.m` in MATLAB
 2. Make sure `data/` contains the voice dataset
 3. Run the script to generate plots and statistical summaries in `/results`
 
@@ -71,4 +71,4 @@ Feel free to use, adapt, and reference with proper attribution.
 
 Mirna Danisa Tandjung  
 Email: [mirnadanisat@gmail.com]  
-LinkedIn: [[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mirnadanisatandjung/)]
+LinkedIn: [(https://www.linkedin.com/in/mirnadanisatandjung/)]
