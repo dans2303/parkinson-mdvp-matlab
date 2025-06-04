@@ -60,6 +60,16 @@ Evaluation will include accuracy, precision-recall, and confusion matrices.
 
 ---
 
+### 📊 Dataset Summary
+
+- 198 `.wav` voice recordings  
+- 24 extracted acoustic features per sample
+- `Status`: Binary label (0 = Healthy, 1 = Parkinson's)
+
+📁 A sample of the voice dataset is available in [`/data/sample_mdvp_data.csv`](data/sample_mdvp_data.csv) for demonstration and testing purposes.
+
+---
+
 ## 📄 License
 
 This project is licensed under the **MIT License**.  
