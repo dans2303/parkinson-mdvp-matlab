@@ -1,0 +1,10 @@
+*.asv
+*.m~
+*.mat~
+*.fig~
+*.bak
+*.tmp
+*.mex*
+*.log
+slprj/
+work/
